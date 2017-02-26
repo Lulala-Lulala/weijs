@@ -1,0 +1,16 @@
+@charset "utf-8";
+.wjs_info a {
+  color: #333;
+}
+.wjs_info a:hover {
+  color: #e92322;
+  border-bottom: 1px solid #ccc;
+}
+/*定义变量*/
+.wjs_book a {
+  color: #333;
+}
+.wjs_book a:hover {
+  color: #e92322;
+  border-bottom: 1px solid #ccc;
+}
